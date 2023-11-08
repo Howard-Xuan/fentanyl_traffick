@@ -1,0 +1,524 @@
+FY,Month (abbv),Component,Region,Land Filter,Area of Responsibility,Drug Type,Count of Event,Sum Qty (lbs)
+2019,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,26.45547144
+2019,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,10,49.1004510973658
+2019,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,16,112.3350464587184
+2019,APR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,18.33
+2019,APR,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,11.6844
+2019,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,1,0.6173
+2019,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0.2842
+2019,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,10.87540338446
+2019,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0.69776305923
+2019,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,21,211.52267159948332
+2019,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,12,19.952275635524
+2019,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,3.521
+2019,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,9.5322
+2019,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,1.3625
+2019,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0.10582188576
+2019,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,6,40.2233397019
+2019,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,5,29.449128495698
+2019,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0.0088
+2019,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,5.0265395736
+2019,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,10,142.77797473906
+2019,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,15,22.5974259474524
+2019,FEB,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.0035935348706
+2019,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,2.2
+2019,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,2.6786
+2019,FEB,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,17.4825
+2019,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,26.3231940828
+2019,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,8,61.126028148906
+2019,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,10,268.05741881865595
+2019,JAN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.0881849048
+2019,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,44.092
+2019,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,16.973200000000002
+2019,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,22,101.5902890107196
+2019,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,10,27.4797611554782
+2019,JUL,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,2.2266688462
+2019,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,4.94
+2019,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,7.8263
+2019,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,1,4.1887
+2019,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,3.7588
+2019,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,12.2136093148
+2019,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,10,148.81202685
+2019,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,16,76.33064897226
+2019,JUN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.087523518014
+2019,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,18.9596
+2019,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,0.9424
+2019,JUN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,2.6069
+2019,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,13,183.645064246
+2019,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,17,26.409593243277808
+2019,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,2.3148
+2019,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,0.8907999999999999
+2019,MAY,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0.037919509064
+2019,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,20,334.4745412555621
+2019,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,16,39.3745599932
+2019,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,7.4956
+2019,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,0.8383999999999999
+2019,NOV,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0.226194280812
+2019,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,9,102.483205264272
+2019,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,7,7.506299096576002
+2019,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,12.777399999999998
+2019,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,1,0.0014
+2019,NOV,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,1.9797
+2019,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,2.5132697868
+2019,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,4,72.13525212639999
+2019,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,11,62.97724976292
+2019,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,14.7708
+2019,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,8.7303055752
+2019,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,14,43.7371995110132
+2019,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,25,128.65322216743442
+2019,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,4.1083
+2019,SEP,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,7.760199999999999
+2020,APR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,4.9824471212
+2020,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,2.4030386558
+2020,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,17,137.5242047120166
+2020,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,21,68.9733603185698
+2020,APR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,0.0078705027534
+2020,APR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,0.5503
+2020,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,9,13.2407
+2020,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,3,18.034300000000002
+2020,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,1.790484260833
+2020,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,2.3721959853462
+2020,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,62,226.4411324067614
+2020,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,42,150.6366166227644
+2020,AUG,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.68563763482
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,5.825
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,2.2046
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,223.8742
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,10,2.6974
+2020,AUG,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,6,14.4027
+2020,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,14,63.6684210005162
+2020,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,16,36.2478980548374
+2020,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,3.5274
+2020,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,1.4798
+2020,DEC,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,2.1495
+2020,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,9.0609989682
+2020,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,16,114.8280557636406
+2020,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,14,102.5033996074712
+2020,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,5.5106
+2020,FEB,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,6.2218
+2020,FEB,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,13.2276
+2020,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,4.7284525491498
+2020,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,16,72.93572855349579
+2020,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,7,12.4584987954296
+2020,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.753
+2020,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,39.5726
+2020,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,7,4.9496
+2020,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,3.1590000000000003
+2020,JUL,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,24.6332626596652
+2020,JUL,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,12.919088553200002
+2020,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,49,527.531029235211
+2020,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,33,132.5798093772378
+2020,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0.0617
+2020,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,23.303800000000003
+2020,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,16,7.667800000000001
+2020,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,6,20.4154
+2020,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,0.00661386786
+2020,JUN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0.00771617917
+2020,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,51,214.6319611116004
+2020,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,39,374.5731434096224
+2020,JUN,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,1.322773572e-4
+2020,JUN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.07936641432
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,26.2775
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,2.2
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,2,17.6368
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,26.405
+2020,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,14.2515
+2020,MAR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,0.6172943336
+2020,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,15,112.8260600086448
+2020,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,17,89.68400408914759
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,17.4
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0.8818
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,15.2558
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,1.2385000000000002
+2020,MAR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,4,5.496
+2020,MAY,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,1,0.133820593034
+2020,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,53,152.7830592518226
+2020,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,30,59.5387219087322
+2020,MAY,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,0.254192988086
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.0289
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0.595
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,0.5644
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,10,15.9008
+2020,MAY,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,4,2.9506
+2020,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,25,153.90814431348718
+2020,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,6,16.455523697942
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0.0037
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,0.6614
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,24.6915
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,32.9567
+2020,NOV,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,1.8916
+2020,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,4.629707502
+2020,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,23,115.159344404748
+2020,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,14,67.385943847265
+2020,OCT,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,46.6071110990506
+2020,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,15.7144
+2020,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,23.0624
+2020,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,4,4.1157
+2020,OCT,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,3,21.201500000000003
+2020,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,3.3514452606978
+2020,SEP,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,14.3067662151328
+2020,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,57,450.642280046698
+2020,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,23,183.6230621122524
+2020,SEP,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.23699693165
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.6085
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,12.1253
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,0.2099
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,84.67620000000001
+2020,SEP,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,3,4.5547
+2021,APR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,21.608388147668
+2021,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,23.5051793112374
+2021,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,55,476.3916990464168
+2021,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,35,213.0553693373598
+2021,APR,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,18.9156620796
+2021,APR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,0.396170684814
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0.2447
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,11.7143
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,29.987
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,14.837
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,35.1017
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,15,25.9872
+2021,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,7.0106
+2021,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,6,43.3702400759142
+2021,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,42.289732483626
+2021,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,61,819.8167435844645
+2021,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,24,191.6198897417784
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.0151
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,4,2.6337
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,12.2375
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,6,1.1643
+2021,AUG,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0
+2021,DEC,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,8,71.03031731548221
+2021,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,5,324.928745773224
+2021,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,49,553.7248781088956
+2021,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,30,156.1557791208034
+2021,DEC,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,2,13.679903819362
+2021,DEC,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,7.6279942652
+2021,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,2.27
+2021,DEC,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,2.5
+2021,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,18.9578
+2021,DEC,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,5,17.2821
+2021,FEB,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,2,6.1470169739888005
+2021,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,5,38.7320888692796
+2021,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,50,523.1023171774764
+2021,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,39,150.523034465382
+2021,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.948
+2021,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0.2601
+2021,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,5.2469
+2021,FEB,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,8,51.7785
+2021,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,2,7.4075320032
+2021,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,17.4876398237212
+2021,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,37,281.199615181
+2021,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,23,196.0206692309176
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,7.799999999999999
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,2,8e-4
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,169.49030000000002
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,6,2.8391
+2021,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0.0908
+2021,JUL,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,6,3.05450464001
+2021,JUL,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,2.34130922244
+2021,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,50,481.977132500413
+2021,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,32,238.1079953118014
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.0485
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,3.6773
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,31.6651
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,6,1.3111
+2021,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,17.7964
+2021,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,25.0445129632
+2021,JUN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,6,71.67602923465401
+2021,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,46,633.8392767914092
+2021,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,18,248.2304980253052
+2021,JUN,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,17.5928885076
+2021,JUN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,2.590211116238
+2021,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.028
+2021,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,5,0.0688
+2021,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,20.7363
+2021,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,10,30.0582
+2021,MAR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,30.778295473296
+2021,MAR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,0.0148150640064
+2021,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,52,406.5257752139138
+2021,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,37,170.5596589623472
+2021,MAR,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,0.0703715540304
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,6.242100000000001
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,2.0988
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,2.5697
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,18,9.5952
+2021,MAR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,6,10.6422
+2021,MAY,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,2,2.767021850362
+2021,MAY,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,9.4393342560182
+2021,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,59,459.23115908082497
+2021,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,28,350.500163542604
+2021,MAY,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.324299987402
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2.8043
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.36
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,36.3759
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,8.1964
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,65.3725
+2021,MAY,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0.1758
+2021,NOV,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,76.9183572702996
+2021,NOV,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,21.693927505324
+2021,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,64,510.5331022340704
+2021,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,32,94.9472760396832
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,1.6601
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,2,55.115
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,15.5693
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,2,0.0243
+2021,NOV,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,4,3.8021
+2021,OCT,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,9,49.4115674415002
+2021,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,14.9473413636
+2021,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,59,833.966298160565
+2021,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,25,131.79670537638762
+2021,OCT,Office of Field Operations,Southwest Border,Other,LAREDO FIELD OFFICE,Fentanyl,1,4.586055974124
+2021,OCT,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,0.48060773116
+2021,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,5,27.4539
+2021,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,8,77.0782
+2021,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,13,3.3869
+2021,OCT,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,28.3071
+2021,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,9,35.8116032383394
+2021,SEP,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,16.7544264327616
+2021,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,47,323.3566734753544
+2021,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,18,115.750624191432
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0.0573
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,2.5145
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,4,14.6558
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,8,32.7358
+2021,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,13,69.4512
+2022,APR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,2,0.533959598564
+2022,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,81.64158486384
+2022,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,36,734.4097735167954
+2022,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,22,171.0119593390664
+2022,APR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,0.0827174407024
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,52.7215
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0.1840999999999999
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,10,106.0676
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,14,118.5432
+2022,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,16.17
+2022,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,12,41.2627751747776
+2022,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,126.232502438222
+2022,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,30,373.443450686682
+2022,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,31,1312.0396392490654
+2022,AUG,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,0.6172943336
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,2,0.2397
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.0606
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,13.0375
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,0.0088
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,12,135.9233
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,19,207.147
+2022,AUG,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0.0275
+2022,DEC,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,6,84.99858577354021
+2022,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0.0029321480846
+2022,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,34,219.5271492695008
+2022,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,10,130.64395230084202
+2022,DEC,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0.0025
+2022,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,1.1587
+2022,DEC,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,24.7621
+2022,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,5,0.2657
+2022,FEB,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,9,9.500600718628
+2022,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,11.073378495736
+2022,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,42,334.35009030866297
+2022,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,18,88.02855296378961
+2022,FEB,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,110.7602404288
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,4e-4
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,10.8425
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,5,0.8038
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,0.7209
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,8,64.41669999999999
+2022,FEB,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,15,3.069
+2022,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,34.868972744706
+2022,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0.986899315843
+2022,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,30,413.0095042006552
+2022,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,15,324.0549876902394
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,7.8263
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,8,46.884
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,3.6376
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,0.041
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,16,7.795199999999999
+2022,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0.0149
+2022,JUL,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,12,42.4994802796928
+2022,JUL,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,2.0563176563526
+2022,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,50,1121.634717033169
+2022,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,30,557.1229731842326
+2022,JUL,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,0.5291094288
+2022,JUL,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.013448197982
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,14.859
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0.0144
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,6,303.2685
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,16,14.512299999999998
+2022,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,46.22
+2022,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,29.0709916239156
+2022,JUN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,22.0021337476
+2022,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,33,301.335756343032
+2022,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,13,183.3553327412796
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,33.278800000000004
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,1.5823
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,42.508500000000005
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,25,37.1727
+2022,JUN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0.1074
+2022,MAR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,20.6072910621522
+2022,MAR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,9,9.527717576854
+2022,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,54,420.682450721077
+2022,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,34,437.613842211546
+2022,MAR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.29541943108
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2.4802
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,6.4461
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0.0597
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,116.1083
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,18,6.5987
+2022,MAR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,4.03
+2022,MAY,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,24.538992996434
+2022,MAY,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,4.9824471212
+2022,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,38,509.5550214087074
+2022,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,15,343.3118371665106
+2022,MAY,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,2.9982867632
+2022,MAY,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,2.48240507012
+2022,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,31.9867
+2022,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,4,2.7348
+2022,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,150.57649999999998
+2022,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,21,4.113
+2022,NOV,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,5.4171325631854
+2022,NOV,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,1.2672832206546
+2022,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,46,904.1302208326132
+2022,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,19,136.5189629359752
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2.8704
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,0.1992
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0.2514
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,6,30.3401
+2022,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,8,11.6313
+2022,OCT,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,11,20.142644798761
+2022,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,4,12.1364475231
+2022,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,37,489.07200492364456
+2022,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,13,138.5328856993452
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,2,0.0101
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,4.3076
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,1.7512
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,LAREDO SECTOR,Fentanyl,2,11.0252
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,77.8132
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,150.1924
+2022,OCT,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,0.1451
+2022,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,9,7.100758765627
+2022,SEP,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,5,9.8588298481518
+2022,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,39,879.4667548430542
+2022,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,30,661.5142572798884
+2022,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,57.0988
+2022,SEP,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,5,0.2006
+2022,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,17,133.4681
+2022,SEP,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,77.32130000000001
+2023,APR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,7,28.9195340499216
+2023,APR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,9.1271376468
+2023,APR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,53,2172.6280342272503
+2023,APR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,26,838.7066336256366
+2023,APR,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,0.10031032921
+2023,APR,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,0.221123648786
+2023,APR,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.033510263824
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,31.7198
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,2,13.6994
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,0.8375
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,49.5001
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,13,40.9095
+2023,APR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0.1758999999999999
+2023,AUG,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,37.3044413992462
+2023,AUG,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,2.20462262
+2023,AUG,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,44,878.1269395382016
+2023,AUG,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,24,730.9998616642152
+2023,AUG,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,3.44251822113
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,3,0.3007
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,0.4068
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,60.4722
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,8,59.570800000000006
+2023,AUG,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0.0786999999999999
+2023,DEC,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,45.1360987020818
+2023,DEC,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,7.4075320032
+2023,DEC,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,44,589.856261858266
+2023,DEC,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,34,1762.056313534886
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2.0481
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.0012
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,0.7158
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,1,1.3228
+2023,DEC,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,0.5618
+2023,FEB,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,13,47.73592197294301
+2023,FEB,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,0.0188054309486
+2023,FEB,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,36,711.877273705502
+2023,FEB,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,32,1147.3259780881722
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,2,2.2465
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,0.3879
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,5,259.5967
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,14,24.2441
+2023,FEB,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,93.9821
+2023,JAN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,43.0848957702076
+2023,JAN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,44.713274129792
+2023,JAN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,26,399.19322242602
+2023,JAN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,23,668.799609097488
+2023,JAN,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,2,17.747212091
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.0265
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,0.0705
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,260.5375
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,13,2.7854
+2023,JAN,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,0.5131
+2023,JUL,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,4,6.432206956112
+2023,JUL,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,6.976925113061601
+2023,JUL,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,38,765.256698892252
+2023,JUL,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,12,715.7161389812557
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,9.1491
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,3,6.373500000000001
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,1,0.0441
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,LAREDO SECTOR,Fentanyl,1,2.6455
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,44.7401
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,10,20.3343
+2023,JUL,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,4,178.2883
+2023,JUN,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,8,11.0672496448524
+2023,JUN,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,0.0030423792156
+2023,JUN,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,48,1119.924921960228
+2023,JUN,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,21,815.0683171543774
+2023,JUN,Office of Field Operations,Southwest Border,Other,SAN DIEGO FIELD OFFICE,Fentanyl,1,0.08708259349
+2023,JUN,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0.0022
+2023,JUN,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,5.1808
+2023,JUN,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,3,57.981
+2023,JUN,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,132.3808
+2023,MAR,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,12,78.59951429540679
+2023,MAR,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,23.3940001925108
+2023,MAR,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,52,1074.11308437889
+2023,MAR,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,28,1140.8857463057234
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,2.3369
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,0.0208
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,6,0.0516
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,8,233.8198
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,16,100.6656
+2023,MAR,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,3,194.5096
+2023,MAY,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,10,15.694267507256
+2023,MAY,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,2,23.3372752524982
+2023,MAY,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,55,928.202781821334
+2023,MAY,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,31,1024.7708082263364
+2023,MAY,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.237658318436
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0.0176
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,0.1235
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,4,46.53
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,6,232.4737
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,14,187.6321
+2023,MAY,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,1,192.1529
+2023,NOV,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,5,16.515489433206
+2023,NOV,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,1,14.5064168396
+2023,NOV,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,34,721.774265571206
+2023,NOV,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,34,2029.2879248125423
+2023,NOV,Office of Field Operations,Southwest Border,Other,TUCSON FIELD OFFICE,Fentanyl,1,0.0079145952058
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,2,0.8913
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL CENTRO SECTOR,Fentanyl,1,1.1883
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,3,2.7591
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,RIO GRANDE VALLEY SECTOR,Fentanyl,1,2.3325
+2023,NOV,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,103.8193
+2023,OCT,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,7,18.6766148489134
+2023,OCT,Office of Field Operations,Southwest Border,Land Only,LAREDO FIELD OFFICE,Fentanyl,3,34.891570126561
+2023,OCT,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,45,1108.947885472986
+2023,OCT,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,28,670.2991052187072
+2023,OCT,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,5.5556
+2023,OCT,U.S. Border Patrol,Southwest Border,Land Only,EL PASO SECTOR,Fentanyl,2,0.5632
+2023,OCT,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,4,61.4422
+2023,OCT,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,12,29.5123
+2023,SEP,Office of Field Operations,Southwest Border,Land Only,EL PASO FIELD OFFICE,Fentanyl,3,6.236392375003599
+2023,SEP,Office of Field Operations,Southwest Border,Land Only,SAN DIEGO FIELD OFFICE,Fentanyl,30,950.5812005577156
+2023,SEP,Office of Field Operations,Southwest Border,Land Only,TUCSON FIELD OFFICE,Fentanyl,21,415.415717513028
+2023,SEP,Office of Field Operations,Southwest Border,Other,EL PASO FIELD OFFICE,Fentanyl,1,3.2628414776
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,BIG BEND SECTOR,Fentanyl,1,0.0084
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,DEL RIO SECTOR,Fentanyl,1,0.0139
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,LAREDO SECTOR,Fentanyl,1,0.0441
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,SAN DIEGO SECTOR,Fentanyl,2,23.5936
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,TUCSON SECTOR,Fentanyl,3,0.0544
+2023,SEP,U.S. Border Patrol,Southwest Border,Land Only,YUMA SECTOR,Fentanyl,2,4.9524
